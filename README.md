@@ -2,11 +2,10 @@
 
 A curated list of awesome stuff needed to get started with your flutter development journey
 
-<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![Branch master](https://img.shields.io/badge/branch-master-brightgreen.svg?style=flat-square)[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/temidtech/dart-cheat-sheet/master/LICENSE) -->
 
 ## Table of Contents
 
-- [Read the PDF](#string-interpolation)
+- [Read the PDF](#Read the PDF)
 - [String interpolation](#string-interpolation)
 - [Functions](#functions)
 - [Parsing](#parsing)
@@ -26,6 +25,7 @@ A curated list of awesome stuff needed to get started with your flutter developm
 - [Reading and decoding a file](#Reading-and-decoding-a-file)
 
 ## Read the PDF
+https://github.com/Muhammad-Sharif-Ullah/Dart-Cheat-Sheet/blob/master/Dart-Cheatsheet-1.0.2.pdf
 
 ## String interpolation
 
