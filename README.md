@@ -25,7 +25,9 @@ A curated list of awesome stuff needed to get started with your flutter developm
 - [Reading and decoding a file](#Reading-and-decoding-a-file)
 
 ## Read the PDF
-https://github.com/Muhammad-Sharif-Ullah/Dart-Cheat-Sheet/blob/master/Dart-Cheatsheet-1.0.2.pdf
+Read file
+[![Read](https://github.com/Muhammad-Sharif-Ullah/Dart-Cheat-Sheet/blob/master/Dart-Cheatsheet-1.0.2.pdf)]
+
 
 ## String interpolation
 
